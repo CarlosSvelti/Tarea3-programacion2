@@ -6,4 +6,8 @@ Abrir archivo desde visual studio code, desde alli podras visualizar los codigos
 El  este es una app que nos muestra la descri  de cada pelicula que nos salegaa en nuestra busqueda, podemos dedasfinir que tipo  de
 busqueda deseas hacer ya sea Pelicula, Serie, Episodios, Todos, etc' Cuando elija su pelicula mostrara los datos de ella  gracias a la Api OMDBapi.com
 
-Espero le guste.
+Importante: La aplicacion la hize en base responsive, es recomendable usar el responsive para tener una mejor vista!
+Gracias!
+
+Espero y le guste.
+
